@@ -166,15 +166,11 @@ A multi-modal AI assistant accessible via phone calls, mobile apps, and web inte
 ### Screenshots
 
 #### Core Features
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/Team_bvv-AWS-AI-for-Bharat-Hackathon/main/assets/demo-1.png" alt="Voice Assistant, Transportation, Fertilizer Procurement, Weather" width="100%"/>
-  <p><em>Voice Assistant | Transportation Services | Fertilizer Procurement | Weather Updates</em></p>
-</div>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/311aa0a1-6068-4272-be18-0900ab2551be" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/Team_bvv-AWS-AI-for-Bharat-Hackathon/main/assets/demo-2.png" alt="Storage, Transportation, Fertilizer, Daily News" width="100%"/>
-  <p><em>Storage Facilities | Transportation & Podcasts | Fertilizer Marketplace | Daily Agricultural News</em></p>
-</div>
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/86ba2905-782f-4317-9609-75d2acae8996" />
+
 
 ### Key Features Demonstrated
 
