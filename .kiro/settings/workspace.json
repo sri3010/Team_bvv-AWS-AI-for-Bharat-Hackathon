@@ -1,0 +1,22 @@
+{
+  "workspace": {
+    "name": "AI-Powered Agricultural Assistant System",
+    "description": "AWS AI for Bharat Hackathon - Team BVV",
+    "version": "1.0.0"
+  },
+  "project": {
+    "type": "aws-serverless",
+    "framework": "bedrock",
+    "language": "python"
+  },
+  "ai": {
+    "provider": "aws",
+    "services": [
+      "bedrock",
+      "rekognition",
+      "polly",
+      "transcribe",
+      "comprehend"
+    ]
+  }
+}
